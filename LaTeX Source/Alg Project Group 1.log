@@ -1,0 +1,767 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.15)  28 MAY 2021 22:45
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Alg Project Group 1.tex"
+(/Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Alg Project Group 1.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (/Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/llncs.cls
+Document Class: llncs 2013/09/27 v2.18 
+ LaTeX document class for Lecture Notes in Computer Science
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count175
+\mult@box=\box45
+\multicol@leftmargin=\dimen135
+\c@unbalance=\count176
+\c@collectmore=\count177
+\doublecol@number=\count178
+\multicoltolerance=\count179
+\multicolpretolerance=\count180
+\full@width=\dimen136
+\page@free=\dimen137
+\premulticols=\dimen138
+\postmulticols=\dimen139
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box46
+\last@line=\box47
+\maxbalancingoverflow=\dimen140
+\mult@rightbox=\box48
+\mult@grightbox=\box49
+\mult@gfirstbox=\box50
+\mult@firstbox=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\c@minrows=\count181
+\c@columnbadness=\count182
+\c@finalcolumnbadness=\count183
+\last@try=\dimen141
+\multicolovershoot=\dimen142
+\multicolundershoot=\dimen143
+\mult@nat@firstbox=\box89
+\colbreak@box=\box90
+\mc@col@check@num=\count184
+) (/Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/aliascnt.sty
+Package: aliascnt 2009/09/08 v1.3 Alias counter (HO)
+ (/Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/remreset.sty))
+\c@chapter=\count185
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 372.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 373.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 374.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 375.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 376.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 377.
+\tocchpnum=\dimen144
+\tocsecnum=\dimen145
+\tocsectotal=\dimen146
+\tocsubsecnum=\dimen147
+\tocsubsectotal=\dimen148
+\tocsubsubsecnum=\dimen149
+\tocsubsubsectotal=\dimen150
+\tocparanum=\dimen151
+\tocparatotal=\dimen152
+\tocsubparanum=\dimen153
+\@tempcntc=\count186
+\fnindent=\dimen154
+\c@@inst=\count187
+\c@@auth=\count188
+\c@auco=\count189
+\instindent=\dimen155
+\authrun=\box91
+\authorrunning=\toks15
+\tocauthor=\toks16
+\titrun=\box92
+\titlerunning=\toks17
+\toctitle=\toks18
+\c@theorem=\count190
+\c@case=\count191
+\c@conjecture=\count192
+\c@corollary=\count193
+\c@definition=\count194
+\c@example=\count195
+\c@exercise=\count196
+\c@lemma=\count197
+\c@note=\count198
+\c@problem=\count199
+\c@property=\count266
+\c@proposition=\count267
+\c@question=\count268
+\c@solution=\count269
+\c@remark=\count270
+\headlineindent=\dimen156
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count271
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip51
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count272
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip52
+\skiplinenumber=\skip53
+\skiprule=\skip54
+\skiphlne=\skip55
+\skiptext=\skip56
+\skiplength=\skip57
+\algomargin=\skip58
+\skipalgocfslide=\skip59
+\algowidth=\dimen159
+\inoutsize=\dimen160
+\inoutindent=\dimen161
+\interspacetitleruled=\dimen162
+\interspacealgoruled=\dimen163
+\interspacetitleboxruled=\dimen164
+\algocf@ruledwidth=\skip60
+\algocf@inoutbox=\box93
+\algocf@inputbox=\box94
+\AlCapSkip=\skip61
+\AlCapHSkip=\skip62
+\algoskipindent=\skip63
+\algocf@nlbox=\box95
+\algocf@hangingbox=\box96
+\algocf@untilbox=\box97
+\algocf@skipuntil=\skip64
+\algocf@capbox=\box98
+\algocf@lcaptionbox=\skip65
+\algoheightruledefault=\skip66
+\algoheightrule=\skip67
+\algotitleheightruledefault=\skip68
+\algotitleheightrule=\skip69
+\c@algocfline=\count273
+\c@algocfproc=\count274
+\c@algocf=\count275
+\algocf@algoframe=\box99
+\algocf@algobox=\box100
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip70
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen165
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen166
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count276
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count277
+\leftroot@=\count278
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count279
+\DOTSCASE@=\count280
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box101
+\strutbox@=\box102
+\big@size=\dimen167
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count281
+\c@MaxMatrixCols=\count282
+\dotsspace@=\muskip16
+\c@parentequation=\count283
+\dspbrk@lvl=\count284
+\tag@help=\toks22
+\row@=\count285
+\column@=\count286
+\maxfields@=\count287
+\andhelp@=\toks23
+\eqnshift@=\dimen168
+\alignsep@=\dimen169
+\tagshift@=\dimen170
+\tagwidth@=\dimen171
+\totwidth@=\dimen172
+\lineht@=\dimen173
+\@envbody=\toks24
+\multlinegap=\skip71
+\multlinetaggap=\skip72
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen174
+\ar@mcellbox=\box103
+\extrarowheight=\dimen175
+\NC@list=\toks26
+\extratabsurround=\skip73
+\backup@length=\skip74
+\ar@cellbox=\box104
+)
+\TX@col@width=\dimen176
+\TX@old@table=\dimen177
+\TX@old@col=\dimen178
+\TX@target=\dimen179
+\TX@delta=\dimen180
+\TX@cols=\count288
+\TX@ftn=\toks27
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen181
+\Hy@linkcounter=\count289
+\Hy@pagecounter=\count290
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count291
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count292
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen182
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count293
+\Field@Width=\dimen183
+\Fld@charsize=\dimen184
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring ON on input line 6448.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count294
+\c@Item=\count295
+\c@Hfootnote=\count296
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count297
+\c@bookmark@seq@number=\count298
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip75
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks28
+\minrowclearance=\skip76
+)
+\rownum=\count299
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip77
+\subfigcapskip=\skip78
+\subfigcaptopadj=\dimen185
+\subfigbottomskip=\skip79
+\subfigcapmargin=\dimen186
+\subfiglabelskip=\skip80
+\c@subfigure=\count300
+\c@lofdepth=\count301
+\c@subtable=\count302
+\c@lotdepth=\count303
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip81
+\subfig@bottom=\skip82
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip83
+\f@nch@O@elh=\skip84
+\f@nch@O@erh=\skip85
+\f@nch@O@olh=\skip86
+\f@nch@O@orh=\skip87
+\f@nch@O@elf=\skip88
+\f@nch@O@erf=\skip89
+\f@nch@O@olf=\skip90
+\f@nch@O@orf=\skip91
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/layout.sty
+Package: layout 2014/10/28 v1.2c Show layout parameters
+\oneinch=\count304
+\cnt@paperwidth=\count305
+\cnt@paperheight=\count306
+\cnt@hoffset=\count307
+\cnt@voffset=\count308
+\cnt@textheight=\count309
+\cnt@textwidth=\count310
+\cnt@topmargin=\count311
+\cnt@oddsidemargin=\count312
+\cnt@evensidemargin=\count313
+\cnt@headheight=\count314
+\cnt@headsep=\count315
+\cnt@marginparsep=\count316
+\cnt@marginparwidth=\count317
+\cnt@marginparpush=\count318
+\cnt@footskip=\count319
+\fheight=\count320
+\ref@top=\count321
+\ref@hoffset=\count322
+\ref@voffset=\count323
+\ref@head=\count324
+\ref@body=\count325
+\ref@foot=\count326
+\ref@margin=\count327
+\ref@marginwidth=\count328
+\ref@marginpar=\count329
+\Interval=\count330
+\ExtraYPos=\count331
+\PositionX=\count332
+\PositionY=\count333
+\ArrowLength=\count334
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count335
+\l__pdf_internal_box=\box105
+) (/Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Alg Project Group 1.aux)
+\openout1 = `"Alg Project Group 1.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+ (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count336
+\scratchdimen=\dimen187
+\scratchbox=\box106
+\nofMPsegments=\count337
+\nofMParguments=\count338
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count339
+\MPscratchDim=\dimen188
+\MPnumerator=\count340
+\makeMPintoPDFobject=\count341
+\everyMPtoPDFconversion=\toks30
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\AtBeginShipoutBox=\box107
+Package hyperref Info: Link coloring ON on input line 39.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count342
+)
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
+ (/Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Alg Project Group 1.out) (/Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Alg Project Group 1.out)
+\@outlinefile=\write3
+\openout3 = `"Alg Project Group 1.out"'.
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<Figures/Intro.pdf, id=9, 504.72665pt x 315.66835pt>
+File: Figures/Intro.pdf Graphic file (type pdf)
+<use Figures/Intro.pdf>
+Package pdftex.def Info: Figures/Intro.pdf  used on input line 68.
+(pdftex.def)             Requested size: 284.52756pt x 177.94833pt.
+ [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+] [2 </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/Intro.pdf>]
+Overfull \hbox (33.95963pt too wide) in paragraph at lines 111--131
+ [][] 
+ []
+
+[3]
+
+Package amsfonts Warning: Obsolete command \bold; \mathbf should be used instead on input line 177.
+
+[4]
+
+pdfTeX warning: pdflatex (file /Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/FigureDesign.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Figures/FigureDesign.pdf, id=115, 963.6pt x 542.025pt>
+File: Figures/FigureDesign.pdf Graphic file (type pdf)
+<use Figures/FigureDesign.pdf>
+Package pdftex.def Info: Figures/FigureDesign.pdf  used on input line 205.
+(pdftex.def)             Requested size: 426.79134pt x 240.06314pt.
+
+
+pdfTeX warning: pdflatex (file /Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/transfer_station.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Figures/transfer_station.pdf, id=117, 900.55147pt x 318.06328pt>
+File: Figures/transfer_station.pdf Graphic file (type pdf)
+<use Figures/transfer_station.pdf>
+Package pdftex.def Info: Figures/transfer_station.pdf  used on input line 212.
+(pdftex.def)             Requested size: 426.79134pt x 150.73705pt.
+[5 </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/FigureDesign.pdf>] [6 </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/transfer_station.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `htbp') on input line 310.
+
+[7]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 370--371
+[][] 
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 390--391
+[][] 
+ []
+
+[8] [9] [10]
+<Figures/CounterExample.pdf, id=277, 885.93387pt x 216.03651pt>
+File: Figures/CounterExample.pdf Graphic file (type pdf)
+<use Figures/CounterExample.pdf>
+Package pdftex.def Info: Figures/CounterExample.pdf  used on input line 552.
+(pdftex.def)             Requested size: 364.19664pt x 88.80959pt.
+ [11 </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/CounterExample.pdf>]
+<Figures/SchedulerStructure.pdf, id=326, 672.74335pt x 459.29395pt>
+File: Figures/SchedulerStructure.pdf Graphic file (type pdf)
+<use Figures/SchedulerStructure.pdf>
+Package pdftex.def Info: Figures/SchedulerStructure.pdf  used on input line 586.
+(pdftex.def)             Requested size: 364.19664pt x 248.64577pt.
+
+Underfull \vbox (badness 5050) has occurred while \output is active []
+
+ [12]
+<Figures/gannt.png, id=356, 2674.74281pt x 912.40875pt>
+File: Figures/gannt.png Graphic file (type png)
+<use Figures/gannt.png>
+Package pdftex.def Info: Figures/gannt.png  used on input line 628.
+(pdftex.def)             Requested size: 364.19664pt x 124.22795pt.
+ [13 </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/SchedulerStructure.pdf>]
+<Figures/fitness.png, id=393, 462.528pt x 346.896pt>
+File: Figures/fitness.png Graphic file (type png)
+<use Figures/fitness.png>
+Package pdftex.def Info: Figures/fitness.png  used on input line 641.
+(pdftex.def)             Requested size: 364.19664pt x 273.16086pt.
+<Figures/Generation 0000.jpg, id=396, 462.528pt x 346.896pt>
+File: Figures/Generation 0000.jpg Graphic file (type jpg)
+<use Figures/Generation 0000.jpg>
+Package pdftex.def Info: Figures/Generation 0000.jpg  used on input line 656.
+(pdftex.def)             Requested size: 142.26378pt x 106.70032pt.
+
+Overfull \hbox (5.68918pt too wide) in paragraph at lines 656--657
+ [][] 
+ []
+
+<Figures/Generation 0005.jpg, id=397, 462.528pt x 346.896pt>
+File: Figures/Generation 0005.jpg Graphic file (type jpg)
+<use Figures/Generation 0005.jpg>
+Package pdftex.def Info: Figures/Generation 0005.jpg  used on input line 662.
+(pdftex.def)             Requested size: 142.26378pt x 106.70032pt.
+
+Overfull \hbox (5.68918pt too wide) in paragraph at lines 662--663
+ [][] 
+ []
+
+<Figures/Generation 0020.jpg, id=398, 462.528pt x 346.896pt>
+File: Figures/Generation 0020.jpg Graphic file (type jpg)
+<use Figures/Generation 0020.jpg>
+Package pdftex.def Info: Figures/Generation 0020.jpg  used on input line 668.
+(pdftex.def)             Requested size: 142.26378pt x 106.70032pt.
+
+Overfull \hbox (5.68918pt too wide) in paragraph at lines 668--669
+ [][] 
+ []
+
+<Figures/Generation 0100.jpg, id=399, 462.528pt x 346.896pt>
+File: Figures/Generation 0100.jpg Graphic file (type jpg)
+<use Figures/Generation 0100.jpg>
+Package pdftex.def Info: Figures/Generation 0100.jpg  used on input line 678.
+(pdftex.def)             Requested size: 142.26378pt x 106.70032pt.
+
+Overfull \hbox (5.68918pt too wide) in paragraph at lines 678--679
+ [][] 
+ []
+
+<Figures/Generation 1000.jpg, id=400, 462.528pt x 346.896pt>
+File: Figures/Generation 1000.jpg Graphic file (type jpg)
+<use Figures/Generation 1000.jpg>
+Package pdftex.def Info: Figures/Generation 1000.jpg  used on input line 684.
+(pdftex.def)             Requested size: 142.26378pt x 106.70032pt.
+
+Overfull \hbox (5.68918pt too wide) in paragraph at lines 684--685
+ [][] 
+ []
+
+<Figures/Generation 3000.jpg, id=401, 462.528pt x 346.896pt>
+File: Figures/Generation 3000.jpg Graphic file (type jpg)
+<use Figures/Generation 3000.jpg>
+Package pdftex.def Info: Figures/Generation 3000.jpg  used on input line 690.
+(pdftex.def)             Requested size: 142.26378pt x 106.70032pt.
+
+Overfull \hbox (5.68918pt too wide) in paragraph at lines 690--691
+ [][] 
+ []
+
+<Figures/smallJCT.pdf, id=404, 555.57562pt x 351.18703pt>
+File: Figures/smallJCT.pdf Graphic file (type pdf)
+<use Figures/smallJCT.pdf>
+Package pdftex.def Info: Figures/smallJCT.pdf  used on input line 702.
+(pdftex.def)             Requested size: 227.62204pt x 143.88579pt.
+
+Overfull \hbox (4.54994pt too wide) in paragraph at lines 702--703
+ [][] 
+ []
+
+<Figures/smallRunningTime.pdf, id=405, 578.88268pt x 302.31744pt>
+File: Figures/smallRunningTime.pdf Graphic file (type pdf)
+<use Figures/smallRunningTime.pdf>
+Package pdftex.def Info: Figures/smallRunningTime.pdf  used on input line 708.
+(pdftex.def)             Requested size: 227.62204pt x 118.87204pt.
+
+Overfull \hbox (4.54994pt too wide) in paragraph at lines 708--709
+ [][] 
+ []
+
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [14 </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/gannt.png> </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/fitness.png>]
+<Figures/jobThreshold.pdf, id=422, 459.27184pt x 340.45091pt>
+File: Figures/jobThreshold.pdf Graphic file (type pdf)
+<use Figures/jobThreshold.pdf>
+Package pdftex.def Info: Figures/jobThreshold.pdf  used on input line 724.
+(pdftex.def)             Requested size: 227.62204pt x 168.7341pt.
+
+Overfull \hbox (4.54994pt too wide) in paragraph at lines 724--725
+ [][] 
+ []
+
+<Figures/timeThreshold.pdf, id=423, 468.54146pt x 339.60876pt>
+File: Figures/timeThreshold.pdf Graphic file (type pdf)
+<use Figures/timeThreshold.pdf>
+Package pdftex.def Info: Figures/timeThreshold.pdf  used on input line 730.
+(pdftex.def)             Requested size: 227.62204pt x 164.9847pt.
+
+Overfull \hbox (4.54994pt too wide) in paragraph at lines 730--731
+ [][] 
+ []
+
+[15 </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/Generation 0000.jpg> </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/Generation 0005.jpg> </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/Generation 0020.jpg> </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/Generation 0100.jpg> </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/Generation 1000.jpg> </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/Generation 3000.jpg> </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/smallJCT.pdf> </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/smallRunningTime.pdf>]
+<Figures/largeJCT.pdf, id=637, 549.92953pt x 281.17548pt>
+File: Figures/largeJCT.pdf Graphic file (type pdf)
+<use Figures/largeJCT.pdf>
+Package pdftex.def Info: Figures/largeJCT.pdf  used on input line 746.
+(pdftex.def)             Requested size: 364.19664pt x 186.21565pt.
+ [16 </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/jobThreshold.pdf> </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/timeThreshold.pdf> </Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Figures/largeJCT.pdf>] [17] 
+AED: lastpage setting LastPage
+[18]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 921.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 921.
+ (/Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Alg Project Group 1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 921.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 921.
+Package rerunfilecheck Info: File `"Alg Project Group 1".out' has not changed.
+(rerunfilecheck)             Checksum: CE09A268FFAA689CAFA2D3EE01D561E5;88.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 921.
+ ) 
+Here is how much of TeX's memory you used:
+ 9028 strings out of 480608
+ 133707 string characters out of 5903630
+ 430743 words of memory out of 5000000
+ 24521 multiletter control sequences out of 15000+600000
+ 541452 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,24n,45p,1068b,731s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "/Users/emiyali/Desktop/college/2020-2021-2/Algorithm&Complexity/Project/AlgProj Group1/LaTeX Source/Alg Project Group 1.pdf" (18 pages, 1044300 bytes).
+PDF statistics:
+ 899 PDF objects out of 1000 (max. 8388607)
+ 654 compressed objects within 7 object streams
+ 206 named destinations out of 1000 (max. 500000)
+ 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+

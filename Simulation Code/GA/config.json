@@ -1,0 +1,22 @@
+{
+    "GA": {
+        "POPULATION": 1000,
+        "NEXT_GEN": 1000,
+        "PROB_DECAY": 1e-3,
+        "CROSSOVER": {
+            "MODE": 2,
+            "PROBABILITY": 0.6
+        },
+        "MUTATION": {
+            "PROBABILITY": 0.4
+        },
+        "MAX_GENERATION": 10
+    },
+    "DATA_PATH": {
+        "task_dict": "../data/6/sorted_ToyData_dict.json",
+        "bandwidth": "../data/6/bandwidth.json",
+        "data_req": "../data/6/data_req.json",
+        "location": "../data/6/location.json",
+        "slot": "../data/6/slot.json"
+    }
+}
